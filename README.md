@@ -18,6 +18,6 @@ To install dlib, you'll need to have CMake and Visual Studio C++ tools installed
 
 Once you have CMake and Visual Studio C++ tools installed, you can install dlib using pip:
 
-'''bash
+```bash
 pip install dlib
-'''
+```
