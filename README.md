@@ -21,3 +21,14 @@ Once you have CMake and Visual Studio C++ tools installed, you can install dlib 
 ```bash
 pip install dlib
 ```
+
+## Running the Application
+
+1. Clone this repository to your local machine.
+2. Navigate to the directory where you cloned the repository.
+3. Run the Flask application by executing the following command:
+
+```bash
+python app.py
+```
+
